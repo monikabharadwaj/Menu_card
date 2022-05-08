@@ -1,1 +1,2 @@
-# Menu_card
+# menu-card-app
+Menu Card App
